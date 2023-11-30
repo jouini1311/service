@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>service</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -48,6 +48,6 @@
     <scm>
         <connection>scm:git:https://github.com/jouini1311/service.git</connection>
         <developerConnection>scm:git:https://github.com/jouini1311/service.git</developerConnection>
-    <tag>service-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
